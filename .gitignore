@@ -1,0 +1,12 @@
+# Godot-specific
+.import/
+export.cfg
+export_presets.cfg
+
+# Output files
+out/
+
+# Other
+.directory
+*~
+*.DS_Store
